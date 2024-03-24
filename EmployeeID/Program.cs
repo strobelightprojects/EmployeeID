@@ -13,12 +13,12 @@ namespace EmployeeManagementSystem
             while (true)
             { // The main menu loop
                 Console.WriteLine("\nEmployee Management System");
-                Console.WriteLine("1. Add Employee");
+                Console.WriteLine("\n1. Add Employee");
                 Console.WriteLine("2. Save Employees");
                 Console.WriteLine("3. View All Employees");
                 Console.WriteLine("4. Edit Employee");
                 Console.WriteLine("5. Exit");
-                Console.Write("Enter your choice: ");
+                Console.Write("\nEnter your choice: ");
                 if (!int.TryParse(Console.ReadLine(), out int choice))
                 {
                     Console.WriteLine("Invalid input. Please enter a number.");
