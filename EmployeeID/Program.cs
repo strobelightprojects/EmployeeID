@@ -9,7 +9,7 @@ namespace EmployeeManagementSystem
         static void Main(string[] args)
         {
             LoadEmployeesFromFile();
-
+ 
             while (true)
             { // The main menu loop
                 Console.WriteLine("\nEmployee Management System");
