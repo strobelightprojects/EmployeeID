@@ -1,7 +1,7 @@
 # Overview
 I created this program to start working with the C# programming language. In this program, I created a basic Employee management system that collects the employee name and ID# and then saves it into a Txt file. This program allows the user to view all entered employee information and edit them. The program uses a while loop to act as a menu and then each option uses a function to execute. Overall, I achieved my goal of working with the C# programming language and getting practice building something that can be useful. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XLlJQdsB-68)
 
 # Development Environment
 
