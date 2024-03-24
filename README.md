@@ -16,4 +16,5 @@ I created this program to start working with the C# programming language. In thi
 - Add in department or job title to the program
 - Add in a wat to access the employee like email, phone number etc
 - Add the ability to view a single employee by name or ID number 
-you - Improve by braking parts off into their own files for better coding mangement
+- Improve by braking parts off into their own files for better coding mangement
+- Fix/Improve make IDs work with a mix of letters and numbers change to a string instead of int. 
